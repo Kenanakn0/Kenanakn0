@@ -1,9 +1,10 @@
 <h1 align="center">Merhaba, ben Kenan 👋</h1>
 
-<h3 align="center">Software Engineering Student @ Muş Alparslan Üniversitesi | Sağlık Teknolojileri & Full-Stack Developer</h3>
+<h3 align="center">Software Engineering Student @ Muş Alparslan Üniversitesi | Gömülü Sistemler & IoT | Yapay Zekâ & Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kenan-ak%C4%B1nay-71841a331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kenanakinay733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Kenanakn0?tab=repositories"><img src="https://img.shields.io/badge/Projeler-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projeler"/></a>
 </p>
 
@@ -12,11 +13,12 @@
 ### 🧠 Hakkımda
 
 - 🎓 Muş Alparslan Üniversitesi, Yazılım Mühendisliği 3. sınıf öğrencisiyim
-- 🏥 Sağlık teknolojilerine odaklanıyorum — hasta takip sistemleri ve düşük maliyetli tıbbi cihazlar geliştiriyorum
-- 🏆 Sağlık alanındaki projemle **TÜBİTAK desteği** almaya hak kazandım
-- 🔧 Yazılımı donanımla birleştirmeyi seviyorum: ESP32, Arduino, görüntü işleme
+- 🔌 Gömülü sistemler ve IoT üzerinde çalışıyorum: ESP32, Arduino, sensörler ve cihaz-sunucu haberleşmesi
+- 🤖 Makine öğrenimi, görüntü işleme ve yapay zekâ ajan geliştirme ile ilgileniyorum
+- 🌐 Web, mobil ve masaüstünde uçtan uca full-stack uygulamalar geliştiriyorum
+- 🏆 Geliştirdiğim bir projeyle **TÜBİTAK desteği** almaya hak kazandım
 - 💼 İstanbul Üniversitesi Bilgi İşlem Daire Başkanlığı'nda staj yaptım
-- 🚀 Şu an Go öğreniyorum ve bir sunucu izleme sistemi geliştiriyorum
+- 📫 Bana ulaşmak için: **kenanakinay733@gmail.com**
 
 ---
 
