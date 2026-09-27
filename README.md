@@ -16,7 +16,7 @@
 - 🔌 Gömülü sistemler ve IoT üzerinde çalışıyorum: ESP32, Arduino, sensörler ve cihaz-sunucu haberleşmesi
 - 🤖 Makine öğrenimi, görüntü işleme ve yapay zekâ ajan geliştirme ile ilgileniyorum
 - 🌐 Web, mobil ve masaüstünde uçtan uca full-stack uygulamalar geliştiriyorum
-- 🏆 Geliştirdiğim bir projeyle **TÜBİTAK desteği** almaya hak kazandım
+- 🏆 Geliştirdiğim projeyle **TÜBİTAK desteği** almaya hak kazandım
 - 💼 İstanbul Üniversitesi Bilgi İşlem Daire Başkanlığı'nda staj yaptım
 - 📫 Bana ulaşmak için: **kenanakinay733@gmail.com**
 
