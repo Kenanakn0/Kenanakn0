@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Merhaba, ben Kenan 👋</h1>
 
-<!--
-**Kenanakn0/Kenanakn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineering Student @ Muş Alparslan Üniversitesi | Sağlık Teknolojileri & Full-Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenan-ak%C4%B1nay-71841a331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Kenanakn0?tab=repositories"><img src="https://img.shields.io/badge/Projeler-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projeler"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Hakkımda
+
+- 🎓 Muş Alparslan Üniversitesi, Yazılım Mühendisliği 3. sınıf öğrencisiyim
+- 🏥 Sağlık teknolojilerine odaklanıyorum — hasta takip sistemleri ve düşük maliyetli tıbbi cihazlar geliştiriyorum
+- 🏆 Sağlık alanındaki projemle **TÜBİTAK desteği** almaya hak kazandım
+- 🔧 Yazılımı donanımla birleştirmeyi seviyorum: ESP32, Arduino, görüntü işleme
+- 💼 İstanbul Üniversitesi Bilgi İşlem Daire Başkanlığı'nda staj yaptım
+- 🚀 Şu an Go öğreniyorum ve bir sunucu izleme sistemi geliştiriyorum
+
+---
+
+### 🛠️ Öne Çıkan Projeler
+
+| Proje | Açıklama |
+|:---:|---|
+| **[EndoTrack AI](https://github.com/SercanOzturkSoftWare/EndoTrack)** | Böbrek taşı hastaları için hekim ve hasta portallı takip uygulaması. Anatomik SVG ile taş konumu görselleştirme, push bildirimler, Android APK. Bir tıp kongresinde sunuldu |
+| **LunaScan** | ESP32-CAM ve Python/OpenCV ile düşük maliyetli fotorefraksiyon göz tarama cihazı. Kırma kusuru ve astigmat için çok kriterli tanı algoritması |
+| **[IU_StajProje](https://github.com/Kenanakn0/IU_StajProje)** | .NET + Angular bilet satış sistemi. JWT yetkilendirme, 5 dakikalık koltuk rezervasyonu, eşzamanlılık kontrolü (RowVersion), ödeme simülasyonu |
+| **[Kesim Yerleşim](https://github.com/Kenanakn0/kare-yerlesim)** | CNC/marangozluk için 2D nesting masaüstü uygulaması. MaxRects algoritması, CorelDRAW EPS okuma/yazma. Gerçek atölyede kullanılıyor |
+| **[SalgınTakip](https://github.com/Kenanakn0/Epidemic-Tracking)** | Flask + Supabase ile rol tabanlı (admin/doktor/vatandaş) salgın takip ve karar destek sistemi |
+| **Zone Blitz** | Godot 4 ile geliştirilen alan kapama mobil oyunu. Botlar, görevler, gezegen haritaları — Play Store'a hazırlanıyor |
+| **PulseCraft** *(geliştiriliyor)* | Go agent + Go sunucu, TimescaleDB, Redis ve WebSocket ile gerçek zamanlı sunucu izleme sistemi |
+
+---
+
+### 💻 Diller ve Araçlar
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,py,flask,go,java,js,html,css&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,firebase,docker,electron,godot,opencv,arduino,git,github,vscode&perline=12" />
+</p>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kenanakn0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
