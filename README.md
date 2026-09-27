@@ -32,7 +32,7 @@
 | **[Kesim Yerleşim](https://github.com/Kenanakn0/kare-yerlesim)** | CNC/marangozluk için 2D nesting masaüstü uygulaması. MaxRects algoritması, CorelDRAW EPS okuma/yazma. Gerçek atölyede kullanılıyor |
 | **[SalgınTakip](https://github.com/Kenanakn0/Epidemic-Tracking)** | Flask + Supabase ile rol tabanlı (admin/doktor/vatandaş) salgın takip ve karar destek sistemi |
 | **Zone Blitz** | Godot 4 ile geliştirilen alan kapama mobil oyunu. Botlar, görevler, gezegen haritaları — Play Store'a hazırlanıyor |
-| **PulseCraft** *(geliştiriliyor)* | Go agent + Go sunucu, TimescaleDB, Redis ve WebSocket ile gerçek zamanlı sunucu izleme sistemi |
+| **PulseCraft**  | Go agent + Go sunucu, TimescaleDB, Redis ve WebSocket ile gerçek zamanlı sunucu izleme sistemi |
 
 ---
 
