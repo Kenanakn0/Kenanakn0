@@ -27,11 +27,9 @@
 | Proje | Açıklama |
 |:---:|---|
 | **[EndoTrack AI](https://github.com/SercanOzturkSoftWare/EndoTrack)** | Böbrek taşı hastaları için hekim ve hasta portallı takip uygulaması. Anatomik SVG ile taş konumu görselleştirme, push bildirimler, Android APK. Bir tıp kongresinde sunuldu |
-| **LunaScan** | ESP32-CAM ve Python/OpenCV ile düşük maliyetli fotorefraksiyon göz tarama cihazı. Kırma kusuru ve astigmat için çok kriterli tanı algoritması |
 | **[IU_StajProje](https://github.com/Kenanakn0/IU_StajProje)** | .NET + Angular bilet satış sistemi. JWT yetkilendirme, 5 dakikalık koltuk rezervasyonu, eşzamanlılık kontrolü (RowVersion), ödeme simülasyonu |
 | **[Kesim Yerleşim](https://github.com/Kenanakn0/kare-yerlesim)** | CNC/marangozluk için 2D nesting masaüstü uygulaması. MaxRects algoritması, CorelDRAW EPS okuma/yazma. Gerçek atölyede kullanılıyor |
 | **[SalgınTakip](https://github.com/Kenanakn0/Epidemic-Tracking)** | Flask + Supabase ile rol tabanlı (admin/doktor/vatandaş) salgın takip ve karar destek sistemi |
-| **Zone Blitz** | Godot 4 ile geliştirilen alan kapama mobil oyunu. Botlar, görevler, gezegen haritaları — Play Store'a hazırlanıyor |
 | **PulseCraft**  | Go agent + Go sunucu, TimescaleDB, Redis ve WebSocket ile gerçek zamanlı sunucu izleme sistemi |
 
 ---
