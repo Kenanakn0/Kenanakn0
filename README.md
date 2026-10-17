@@ -27,7 +27,7 @@
 |:---:|---|
 | **[EndoTrack AI](https://github.com/SercanOzturkSoftWare/EndoTrack)** | Böbrek taşı hastaları için hekim ve hasta portallı takip uygulaması. Anatomik SVG ile taş konumu görselleştirme, push bildirimler, Android APK. Bir tıp kongresinde sunuldu |
 | **[IU_StajProje](https://github.com/Kenanakn0/IU_StajProje)** | .NET + Angular bilet satış sistemi. JWT yetkilendirme, 5 dakikalık koltuk rezervasyonu, eşzamanlılık kontrolü (RowVersion), ödeme simülasyonu |
-| **[Kesim Yerleşim](https://github.com/Kenanakn0/kare-yerlesim)** | CNC/marangozluk için 2D nesting masaüstü uygulaması. MaxRects algoritması, CorelDRAW EPS okuma/yazma. Gerçek atölyede kullanılıyor |
+| [**ReviewCrew**](https://github.com/Kenanakn0/reviewcrew) | Pull request'leri güvenlik, performans ve test ajanlarıyla paralel inceleyen çok ajanlı GitHub App. Kural tabanlı + LLM hibrit analiz, held-out setle ölçülmüş değerlendirme (precision/recall), lokal LLM (Ollama), Docker ve CI |
 | **[SalgınTakip](https://github.com/Kenanakn0/Epidemic-Tracking)** | Flask + Supabase ile rol tabanlı (admin/doktor/vatandaş) salgın takip ve karar destek sistemi |
 | **[PulseCraft](https://github.com/Kenanakn0/PulseCraft.git)**  | Go agent + Go sunucu, TimescaleDB, Redis ve WebSocket ile gerçek zamanlı sunucu izleme sistemi |
 
